@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(253, 228, 197);
+}
+
+
+h1{
+    display: inline-block;
+    margin-left: 600px;
+    margin-bottom: 50px;
+    height:auto;
+    width:auto;
+
+    background-color: white;
+
+}
+button{
+    display: inline-block;
+    background-color: rgb(137, 137, 240);
+    height: 30px;
+    width:150px;
+    
+}
+
+.nav-container {
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.breaking{
+    display: flex;
+    align-self: flex-end;
+    height:500px;
+    width:500px;
+}
