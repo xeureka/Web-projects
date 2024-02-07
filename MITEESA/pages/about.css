@@ -1,0 +1,53 @@
+*{
+    background-color: rgb(253, 232, 205);
+}
+
+h1{
+    text-align: center;
+}
+
+.can{
+    display: flex;
+    justify-content: center;
+    gap:300px;
+}
+
+.navbar{
+    padding: 10px;
+    display:flex;
+    justify-content: space-around;
+    
+    
+}
+
+.navbar a {
+    color: #000;
+    text-decoration: none;
+    padding: 10px;
+  }
+
+
+  .stud{
+    color: #000;
+    text-align: center;
+    margin: 0;
+  }
+
+
+  .banner div{
+    
+    border: 1px solid rgb(23, 20, 3);
+    background-color: white;
+    height: 50vh;
+    width: 150vh;
+    padding: 3px;
+    margin-left: 100px;
+    display: flex;
+    
+  }
+
+  .image{
+    margin-left: 200px;
+  }
+
+  
