@@ -38,6 +38,7 @@ body{
 }
 
 .middle{
+    background-color: snow;
     margin-top: 10px;
     display: flex;
     justify-content: space-between;
@@ -61,18 +62,20 @@ body{
     justify-content: center;
     height: 125px;
     width:125px;
-    font-size: 48px;
+    font-size: 24px;
     margin:8px;
 }
 
 
 
-.mon{
+.mon,.Tue,.Wen,.Thi,.Fri,.Sat,.Sun{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap:150px;
 }
+
+
 
 footer {
     display: flex;
