@@ -90,3 +90,16 @@ footer {
     font-size: 14px;
     color: #333;
   }
+
+  @media screen and (max-width: 768px) {
+    .days {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 10px;
+    }
+  
+    .item {
+      height: 100px;
+      width: 100%;
+    }
+  }
