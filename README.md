@@ -1,3 +1,2 @@
-# Web-projects\
-
-clone and original ideas of some websites to practice
+# Web-projects
+practice problems on web and mobile development
